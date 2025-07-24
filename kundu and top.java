@@ -1,7 +1,3 @@
-//kundu-and-tree.cpp
-//Kundu and Tree
-//Weekly Challenges - Week 5
-//Author: derekhh
 
 #include<cstdio>
 #include<vector>
